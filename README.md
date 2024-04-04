@@ -32,3 +32,5 @@ Passionate about computer programming and video games since the age of 7, I'm cu
 
 ###
 ![Arthuryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthuryanLoheac&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthuryanLoheac&layout=compact&theme=dark&show_icons=true)](https://github.com/ArthuryanLoheac/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArthuryanLoheac&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
