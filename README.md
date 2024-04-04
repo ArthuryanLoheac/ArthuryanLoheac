@@ -26,3 +26,9 @@ Passionate about computer programming and video games since the age of 7, I'm cu
 </div>
 
 ###
+###
+
+<h3 align="left">Stats</h3>
+
+###
+![Arthuryan github stats](https://github-readme-stats.vercel.app/api?username=ArthuryanLoheac&show_icons=true&hide_border=true)
