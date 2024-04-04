@@ -7,4 +7,4 @@ Passionate about computer programming and video games since the age of 7, I'm cu
 - 👯 I’m looking to collaborate on I'm looking for a five-month IT development internship, from August to December.
 - 📫 How to reach me:
   - Mail : ecrire@arthuryan-loheac.fr
-  - Linkedin : <a href ="https://www.linkedin.com/in/arthuryan-loheac/">@Arthuryan</a>
+  - Linkedin : <a href ="https://www.linkedin.com/in/arthuryan-loheac/">@Arthuryan-loheac</a>
