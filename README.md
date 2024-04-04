@@ -31,6 +31,8 @@ Passionate about computer programming and video games since the age of 7, I'm cu
 <h3 align="left">Stats</h3>
 
 ###
-![Arthuryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthuryanLoheac&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthuryanLoheac&layout=compact&theme=dark&show_icons=true)](https://github.com/ArthuryanLoheac/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArthuryanLoheac&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArthuryanLoheac&show_icons=true&hide=&count_private=true&theme=dark&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArthuryanLoheac&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthuryanLoheac&langs_count=10&theme=dark&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" height="200" alt="languages graph"  />
+</div>
