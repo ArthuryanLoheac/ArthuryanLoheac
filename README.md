@@ -2,6 +2,11 @@
 
 I'm a first-year computer programming student at Epitech Nantes, with a deep-rooted passion for game development and a curiosity that drives me to explore the vast realms of computer science and digital creativity. My journey in programming began at the tender age of 7, and since then, I've been on a continuous quest to learn, create, and innovate.
 
+## 📫 How to reach me
+- **LinkedIn:** <a href="https://www.linkedin.com/in/arthuryan-loheac/">@arthuryan-loheac</a>
+- **Personal Website:** <a href="https://arthuryan-loheac.fr">arthuryan-loheac.fr</a>
+- **Email:** ecrire@arthuryan-loheac.fr
+
 ## 🎓 Education
 - **Epitech Nantes (Sept 2023 - June 2028):** Embracing project-based learning to master C programming in my first year, with a focus on real-world applications like game development, security, and networking.
 - **Game Codeur (Since Sept 2019):** Diving deep into game programming principles, learning to apply theoretical knowledge to practical projects using a variety of programming languages and game engines.
@@ -27,6 +32,10 @@ I'm a first-year computer programming student at Epitech Nantes, with a deep-roo
 
 - I’m currently learning C, C# and Unity
 - Exploring new languages and technologies
+
+## 👯 I’m looking to collaborate on
+- Game development projects that challenge me and allow me to contribute my passion and skills.
+- Open source projects that benefit from my areas of expertise.
 
 ## 📊 Stats
 
