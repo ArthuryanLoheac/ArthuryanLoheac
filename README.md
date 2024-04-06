@@ -1,18 +1,12 @@
-### Hi there I'm Arthuryan Lohéac 👋
-## Student at Epitech Nantes
+# Hi there, I'm Arthuryan Lohéac de Sainte Marie 👋
 
-Passionate about computer programming and video games since the age of 7, I'm currently a first-year student at Epitech Nantes.
+I'm a first-year computer programming student at Epitech Nantes, with a deep-rooted passion for game development and a curiosity that drives me to explore the vast realms of computer science and digital creativity. My journey in programming began at the tender age of 7, and since then, I've been on a continuous quest to learn, create, and innovate.
 
-- 🌱 I’m currently learning C, C# and Unity
-- 👯 I'm looking for a five-month IT development internship, from August to December.
-- 📫 How to reach me:
-  - Mail : ecrire@arthuryan-loheac.fr
-  - Linkedin : <a href ="https://www.linkedin.com/in/arthuryan-loheac/">@Arthuryan-loheac</a>
-###
+## 🎓 Education
+- **Epitech Nantes (Sept 2023 - June 2028):** Embracing project-based learning to master C programming in my first year, with a focus on real-world applications like game development, security, and networking.
+- **Game Codeur (Since Sept 2019):** Diving deep into game programming principles, learning to apply theoretical knowledge to practical projects using a variety of programming languages and game engines.
 
-<h3 align="left">Skills</h3>
-
-###
+## 💻 Technical Skills</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
@@ -24,13 +18,18 @@ Passionate about computer programming and video games since the age of 7, I'm cu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" height="40" width="52" alt="emacs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
 </div>
+  
+- **Languages:** Proficient in C, C#, Python, Lua, and HTML/CSS.
+- **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Canva, PowerPoint, WordPress, and Photoshop.
+- **Languages**: English (TOEFL PBT: 535/677, TOEIC: 835/990), Chinese (HSK 1 and 2), and native in French.
 
-###
-###
+## 🌱 I’m currently learning
 
-<h3 align="left">Stats</h3>
+- I’m currently learning C, C# and Unity
+- Exploring new languages and technologies
 
-###
+## 📊 Stats
+
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArthuryanLoheac&show_icons=true&hide=&count_private=true&theme=dark&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ArthuryanLoheac&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
