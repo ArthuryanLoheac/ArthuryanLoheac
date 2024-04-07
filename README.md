@@ -40,7 +40,7 @@ I'm a first-year computer programming student at Epitech Nantes, with a deep-roo
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-arthuryans-projects.vercel.app/api?username=ArthuryanLoheac&show_icons=true&hide=&theme=dark&count_private=true&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-delta-brown-84.vercel.app/api?username=ArthuryanLoheac&show_icons=true&hide=&theme=dark&count_private=true&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ArthuryanLoheac&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&count_private=true&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthuryanLoheac&langs_count=10&theme=dark&&count_private=truehide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-delta-brown-84.vercel.app/api/top-langs/?username=ArthuryanLoheac&langs_count=10&theme=dark&&count_private=truehide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" height="200" alt="languages graph"  />
 </div>
