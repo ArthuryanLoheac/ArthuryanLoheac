@@ -1,6 +1,6 @@
 # Hi there, I'm Arthuryan Lohéac de Sainte Marie 👋
 
-I'm a first-year computer programming student at Epitech Nantes, with a deep-rooted passion for game development and a curiosity that drives me to explore the vast realms of computer science and digital creativity. My journey in programming began at the tender age of 7, and since then, I've been on a continuous quest to learn, create, and innovate.
+I'm a second-year computer programming student at Epitech Nantes, with a deep-rooted passion for game development and a curiosity that drives me to explore the vast realms of computer science and digital creativity. My journey in programming began at the tender age of 7, and since then, I've been on a continuous quest to learn, create, and innovate.
 
 ## 📫 How to reach me
 - **LinkedIn:** <a href="https://www.linkedin.com/in/arthuryan-loheac/">@arthuryan-loheac</a>
@@ -24,8 +24,8 @@ I'm a first-year computer programming student at Epitech Nantes, with a deep-roo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
 </div>
   
-- **Languages:** Proficient in C, C#, Python, Lua, and HTML/CSS.
-- **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Canva, PowerPoint, WordPress, and Photoshop.
+- **Languages:** Proficient in C, C++, C#, Python, Lua, HTML/CSS, JavaScript, TypeScript
+- **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Canva, Angular, AngularJS
 - **Languages**: English (TOEFL PBT: 535/677, TOEIC: 835/990), Chinese (HSK 1 and 2), and native in French.
 
 ## 🌱 I’m currently learning
