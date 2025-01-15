@@ -8,7 +8,7 @@ I'm a second-year computer programming student at Epitech Nantes, with a deep-ro
 - **Email:** ecrire@arthuryan-loheac.fr
 
 ## 🎓 Education
-- **Epitech Nantes (Sept 2023 - June 2028):** Embracing project-based learning to master C programming in my first year, with a focus on real-world applications like game development, security, and networking.
+- **Epitech Nantes (Sept 2023 - June 2028):** Embracing project-based learning to master C++ programming in my second year, with a focus on real-world applications like game development, security, and networking.
 - **Game Codeur (Since Sept 2019):** Diving deep into game programming principles, learning to apply theoretical knowledge to practical projects using a variety of programming languages and game engines.
 
 ## 💻 Technical Skills</h3>
@@ -24,13 +24,13 @@ I'm a second-year computer programming student at Epitech Nantes, with a deep-ro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
 </div>
   
-- **Languages:** Proficient in C, C++, C#, Python, Lua, HTML/CSS, JavaScript, TypeScript
-- **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Canva, Angular, AngularJS
+- **Languages:** C, C++, C#, HTML/CSS, JavaScript, TypeScript, Python, Haskell, Lua
+- **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Angular, AngularJS
 - **Languages**: English (TOEFL PBT: 535/677, TOEIC: 835/990), Chinese (HSK 1 and 2), and native in French.
 
 ## 🌱 I’m currently learning
 
-- I’m currently learning C, C# and Unity
+- I’m currently learning C++, C# and Unity
 - Exploring new languages and technologies
 
 ## 👯 I’m looking to collaborate on
