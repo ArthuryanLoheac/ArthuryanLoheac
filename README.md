@@ -29,10 +29,10 @@ I'm a second-year computer programming student at Epitech Nantes. While I specia
 - **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Angular, AngularJS
 - **Languages 🇫🇷🇬🇧🇰🇷:** English (TOEFL PBT: 535/677, TOEIC: 835/990), learning Korean, and native in French.
 
-## 📚 I’m currently learning
+## 📚 I’m currently working on
 
-- I’m currently learning C++, C# and Unity
-- Exploring new languages and technologies
+- I’m currently working on a tower defense and card game in C# with unity <a href="https://www.youtube.com/watch?v=RQKsySWHiFg">see video here</a>
+- Epidemic simulation in C++ with SFML <a href="https://github.com/ArthuryanLoheac/epidemic-simulation">see here</a>
 
 ## 🤝🏼 I’m looking to collaborate on
 - Development projects that challenge me and allow me to put my skills to good use.
