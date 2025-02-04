@@ -1,6 +1,6 @@
 # Hi there, I'm Arthuryan Lohéac de Sainte Marie 👋
 
-I'm a second-year computer programming student at Epitech Nantes, with a deep-rooted passion for game development and a curiosity that drives me to explore the vast realms of computer science and digital creativity. My journey in programming began at the tender age of 7, and since then, I've been on a continuous quest to learn, create, and innovate.
+I'm a second-year computer programming student at Epitech Nantes. While I specialize in game development, my curiosity pushes me to explore a wide range of fields and themes. I began programming at the age of 7, and ever since, I've been continuously learning and expanding my passion..
 
 ## 📫 How to reach me
 - **LinkedIn:** <a href="https://www.linkedin.com/in/arthuryan-loheac/">@arthuryan-loheac</a>
@@ -8,7 +8,7 @@ I'm a second-year computer programming student at Epitech Nantes, with a deep-ro
 - **Email:** ecrire@arthuryan-loheac.fr
 
 ## 🎓 Education
-- **Epitech Nantes (Sept 2023 - June 2028):** Embracing project-based learning to master C++ programming in my second year, with a focus on real-world applications like game development, security, and networking.
+- **Epitech Nantes (Sept 2023 - June 2028):** In my second year, I deepened my mastery of C++ through project-based learning, focusing on practical applications such as game development, IT security and networking.
 - **Game Codeur (Since Sept 2019):** Diving deep into game programming principles, learning to apply theoretical knowledge to practical projects using a variety of programming languages and game engines.
 
 ## 💻 Technical Skills</h3>
@@ -16,17 +16,18 @@ I'm a second-year computer programming student at Epitech Nantes, with a deep-ro
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" width="52" alt="cpp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" width="52" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="c sharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" height="40" width="52" alt="emacs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
 </div>
   
 - **Languages:** C, C++, C#, HTML/CSS, JavaScript, TypeScript, Python, Haskell, Lua
 - **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Angular, AngularJS
-- **Languages**: English (TOEFL PBT: 535/677, TOEIC: 835/990), Chinese (HSK 1 and 2), and native in French.
+- **Languages 🇫🇷🇬🇧🇰🇷:** English (TOEFL PBT: 535/677, TOEIC: 835/990), learning Korean, and native in French.
 
 ## 🌱 I’m currently learning
 
@@ -34,7 +35,7 @@ I'm a second-year computer programming student at Epitech Nantes, with a deep-ro
 - Exploring new languages and technologies
 
 ## 👯 I’m looking to collaborate on
-- Game development projects that challenge me and allow me to contribute my passion and skills.
+- Development projects that challenge me and allow me to put my skills to good use.
 - Open source projects that benefit from my areas of expertise.
 
 ## 📊 Stats
