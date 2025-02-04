@@ -1,4 +1,4 @@
-# Hi there, I'm Arthuryan Lohéac de Sainte Marie 👋
+# Hi there, I'm Arthuryan Lohéac de Sainte Marie 😉
 
 I'm a second-year computer programming student at Epitech Nantes. While I specialize in game development, my curiosity pushes me to explore a wide range of fields and themes. I began programming at the age of 7, and ever since, I've been continuously learning and expanding my passion..
 
@@ -29,12 +29,12 @@ I'm a second-year computer programming student at Epitech Nantes. While I specia
 - **Tools and Technologies:** Unity (for game development), Linux Fedora, GitHub, Angular, AngularJS
 - **Languages 🇫🇷🇬🇧🇰🇷:** English (TOEFL PBT: 535/677, TOEIC: 835/990), learning Korean, and native in French.
 
-## 🌱 I’m currently learning
+## 📚 I’m currently learning
 
 - I’m currently learning C++, C# and Unity
 - Exploring new languages and technologies
 
-## 👯 I’m looking to collaborate on
+## 🤝🏼 I’m looking to collaborate on
 - Development projects that challenge me and allow me to put my skills to good use.
 - Open source projects that benefit from my areas of expertise.
 
