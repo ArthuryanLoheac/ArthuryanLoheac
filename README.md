@@ -54,7 +54,7 @@ I'm a passionate second-year computer programming student at **Epitech Nantes**,
 <div align="center">
   <img src="https://github-readme-stats-delta-brown-84.vercel.app/api?username=ArthuryanLoheac&show_icons=true&theme=dark&count_private=true&hide_border=false" height="200" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ArthuryanLoheac&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&count_private=true&date_format=j M[ Y]&order=3" height="200" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-delta-brown-84.vercel.app/api/top-langs/?username=ArthuryanLoheac&langs_count=10&theme=dark&count_private=true&hide_border=false&locale=en&custom_title=Top%20Languages&layout=compact" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats-delta-brown-84.vercel.app/api/top-langs/?username=ArthuryanLoheac&langs_count=10&theme=dark&count_private=true&exclude_repo=github-readme-stats,Booster-Defense-game,SalaireShepard,21-6-game,LMDCGame,LeFeu-aBrule&hide_border=false&locale=en&custom_title=Top%20Languages&layout=compact" height="200" alt="Top Languages" />
 </div>
 
 ---
