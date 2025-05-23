@@ -1,6 +1,6 @@
 # Hi there, I'm Arthuryan Lohéac de Sainte Marie 😉
 
-I'm a passionate second-year computer programming student at **{Epitech} Nantes**, specializing in **game development**. My journey with code began at **7 years old**, and since then, my curiosity has driven me to explore diverse fields from **IT security** to **networking**.
+I'm a passionate second-year computer programming student at **{Epitech} Nantes**, specializing in **game development**. My journey with code began at **7 years old**, and since then, my curiosity has driven me to explore diverse fields from **IT security** to **networking**, with a passion for video games.
 
 ---
 
@@ -39,8 +39,12 @@ I'm a passionate second-year computer programming student at **{Epitech} Nantes*
 ---
 
 ## 📚 Current Projects
-- **Tower Defense & Card Game** in **C#** with **Unity** [📹 Watch the video](https://www.youtube.com/watch?v=RQKsySWHiFg)
-- **Epidemic Simulation** in **C++** with **SFML** [📄 Check it out here](https://github.com/ArthuryanLoheac/epidemic-simulation)
+- **Deck of the Fallen** my indie video game in **C#** with **Unity** [📹 Watch the video](https://www.youtube.com/watch?v=RQKsySWHiFg)
+
+## 📚 Previous Projects
+- **Epidemic Simulation** in **C++** with **SFML** [📄 Check it here](https://github.com/ArthuryanLoheac/epidemic-simulation)
+- **3D Raytracer Engine** in **C++** with **SFML** [📄 Check it here](https://github.com/ArthuryanLoheac/RayTracer)
+- **CalendAssistant** a todo list application in **Flutter** with automatic schedule management [📄 Check it here](https://github.com/ArthuryanLoheac/RayTracer)
 
 ---
 
@@ -53,7 +57,6 @@ I'm a passionate second-year computer programming student at **{Epitech} Nantes*
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-delta-brown-84.vercel.app/api?username=ArthuryanLoheac&show_icons=true&theme=dark&count_private=true&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ArthuryanLoheac&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&count_private=true&date_format=j M[ Y]&order=3" height="200" alt="GitHub Streak" />
   <img src="https://github-readme-stats-delta-brown-84.vercel.app/api/top-langs/?username=ArthuryanLoheac&langs_count=10&theme=dark&count_private=true&exclude_repo=github-readme-stats,Booster-Defense-game,SalaireShepard,21-6-game,LMDCGame,LeFeu-aBrule&hide_border=false&locale=en&custom_title=Top%20Languages&layout=compact" height="200" alt="Top Languages" />
 </div>
 
