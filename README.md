@@ -12,8 +12,8 @@ I'm a passionate second-year computer programming student at **{Epitech} Nantes*
 ---
 
 ## 🎓 Education
-- **Epitech Nantes (2023 - 2028):** Deepening my mastery of **C++** through project-based learning, focusing on practical applications like **game development**, **IT security**, and **networking**.
-- **Game Codeur (Since 2019):** Immersed in **game programming principles**, applying theory to hands-on projects with various languages and engines.
+- **Epitech Nantes (_🗓️ 2023 - 2028_):** Deepening my mastery of **C++** through project-based learning, focusing on practical applications like **game development**, **IT security**, and **networking**.
+- **Game Codeur (_🗓️ Since 2019_):** Immersed in **game programming principles**, applying theory to hands-on projects with various languages and engines.
 
 ## 🎓 Experience
 - Full Stack Developer Intern – Baludik _🗓️ Aug – Dec 2024_
