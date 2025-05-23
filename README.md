@@ -41,7 +41,7 @@ I'm a passionate second-year computer programming student at **{Epitech} Nantes*
 ## 📚 Current Projects
 - **Deck of the Fallen** my indie video game in **C#** with **Unity** [📹 Watch the video](https://www.youtube.com/watch?v=RQKsySWHiFg)
 
-## 📚 Previous Projects
+## 📕 Previous Projects
 - **Epidemic Simulation** in **C++** with **SFML** [📄 Check it here](https://github.com/ArthuryanLoheac/epidemic-simulation)
 - **3D Raytracer Engine** in **C++** with **SFML** [📄 Check it here](https://github.com/ArthuryanLoheac/RayTracer)
 - **CalendAssistant** a todo list application in **Flutter** with automatic schedule management [📄 Check it here](https://github.com/ArthuryanLoheac/RayTracer)
