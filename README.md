@@ -1,6 +1,6 @@
 # Hi there, I'm Arthuryan Lohéac de Sainte Marie 😉
 
-I'm a passionate second-year computer programming student at **{Epitech} Nantes**, specializing in **game development**. My journey with code began at **7 years old**, and since then, my curiosity has driven me to explore diverse fields from **IT security** to **networking**, with a passion for video games.
+I'm a passionate third-year computer programming student at **{Epitech} Nantes**, specializing in **game development**. My journey with code began at **7 years old**, and since then, my curiosity has driven me to explore diverse fields from **IT security** to **networking**, with a passion for video games.
 
 ---
 
